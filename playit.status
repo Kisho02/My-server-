@@ -1,75 +1,474 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729434794409 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439060288 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434797483 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439063355 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434800560 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439066530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434804771 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439081655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434807838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439084748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434810922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439087824 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434813982 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439102948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434817047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439106032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434821142 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439109852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434824207 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439118957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434827279 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439122047 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434830653 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439125127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434833719 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439128195 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434836793 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439143293 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1729434839861 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729439146480 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439161624 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439164691 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439168945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439178048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439182178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439185257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439200360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439203926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439207000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439222190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439225257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439240380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439243459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439258594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439261659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439264784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439281441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439284553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439299657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439302741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439317874 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439320964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439336435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439339512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439342593 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439345668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439360935 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439364026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439379177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439382264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439385336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439400500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439403575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439406680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439421934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439425016 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439440376 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439443446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439458554 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439461818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439464993 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439480178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439483244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439486316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439501421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439504510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439519634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439522703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439525779 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439540936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439544013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439559139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439562227 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439565307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439580555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439583815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439586891 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439604794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729439619918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439622997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729439626062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+lists-legs.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
